@@ -1,0 +1,23 @@
+------------------------------
+Abbas Engineer
+afengine
+CS101 P. Tantalo
+------------------------------
+
+Programming Assignment  5
+
+List.c: Acts as an ADT for linked list. contains all the functions necessary for manipulating and accessing any part of the linked list.
+
+List.h: Holds function prototypes of List.c
+
+Graph.c: Acts as an ADT for Graphs, defines a struct called GraphObj performs DFS operations
+
+Graph.h: You must #define constant macros for NIL and UNDEF representing those values, For the purpose of implementing DFS
+
+GraphTest.c: provided on webpage, do not alter
+
+FindComponents.c:  The client program using your Graph ADT and will take two command line arguments.
+
+MakeFile: Used to run the program holds commands to run on timeshare.
+
+README: list each file submitted, together with a brief description of its role in the project
